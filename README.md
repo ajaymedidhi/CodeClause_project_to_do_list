@@ -8,6 +8,6 @@ Developed E Commerce website where users can go through different products, deta
 
 Technologies used: HTML, CSS, Bootstrap
 
-Project link: https://pramodecom.ccbp.tech/
+Project link: 
 
 
